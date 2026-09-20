@@ -1,0 +1,31 @@
+{
+  "groups": [
+    { "f": "smartphone-tablet", "label": "Smartphone & Tablet" },
+    { "f": "laptop-komputer", "label": "Laptop & Komputer" },
+    { "f": "monitor-display", "label": "Monitor & Display" },
+    { "f": "tv-elektronik", "label": "TV & Elektronik Hiburan" },
+    { "f": "kamera-digital", "label": "Kamera Digital" },
+    { "f": "action-camera", "label": "Action Camera" },
+    { "f": "drone", "label": "Drone" },
+    { "f": "cctv-keamanan", "label": "CCTV & Keamanan" },
+    { "f": "printer-proyektor", "label": "Printer & Proyektor" },
+    { "f": "networking-iot", "label": "Networking & IoT" },
+    { "f": "smartwatch-wearable", "label": "Smartwatch & Wearable" },
+    { "f": "smart-glasses", "label": "Smart Glasses & AR" },
+    { "f": "vr-headset", "label": "VR Headset" },
+    { "f": "elektronik-dapur", "label": "Elektronik Dapur" },
+    { "f": "kulkas-freezer", "label": "Kulkas & Freezer" },
+    { "f": "mesin-cuci-dryer", "label": "Mesin Cuci & Dryer" },
+    { "f": "ac-pendingin", "label": "AC & Pendingin" },
+    { "f": "vacuum-kebersihan", "label": "Vacuum & Kebersihan" },
+    { "f": "perawatan-personal", "label": "Perawatan & Personal Care" },
+    { "f": "fashion-aksesori", "label": "Fashion & Aksesori" },
+    { "f": "kecantikan-wajah", "label": "Kecantikan & Perawatan Wajah" },
+    { "f": "kesehatan-medis", "label": "Kesehatan & Alat Medis" },
+    { "f": "otomotif", "label": "Otomotif & Aksesori" },
+    { "f": "olahraga-outdoor", "label": "Olahraga & Outdoor" },
+    { "f": "ibu-bayi", "label": "Ibu & Bayi" },
+    { "f": "hobi-mainan", "label": "Hobi & Mainan" },
+    { "f": "peliharaan", "label": "Peliharaan" }
+  ]
+}
